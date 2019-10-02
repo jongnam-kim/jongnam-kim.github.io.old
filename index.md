@@ -4,11 +4,11 @@
 
 ## Project
 
-### 1. Python for Finance
+1. Python for Finance
 
-### 2. Financial Engineering
+1. Financial Engineering
 
-### 3. Algorithmic Trading
+1. Algorithmic Trading
 
 ## Book
 
