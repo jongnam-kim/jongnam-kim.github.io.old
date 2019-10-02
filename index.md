@@ -12,4 +12,8 @@
 
 ## Book
 
-### 1. 
+1. Challenge to Financial Engineering at the age of 44 
+
+1. Coursework for Financial Engineering at the age of 44
+
+1. Algorithmic Trading at the age of 44
