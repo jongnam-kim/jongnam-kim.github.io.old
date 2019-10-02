@@ -2,6 +2,8 @@
 
 ## Jongnam Kim
 
+![](./20191002_134134.jpg)
+
 ## Project
 
 1. Python for Finance
